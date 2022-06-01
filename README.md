@@ -1,4 +1,4 @@
-# dyson-code
+# dyson-full-stack-project
 
 ## Project setup
 ```
@@ -17,3 +17,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+"# dyson-full-stack-project" 
+"# dyson-code" 
